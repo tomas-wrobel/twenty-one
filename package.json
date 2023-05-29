@@ -4,7 +4,7 @@
 	"private": true,
 	"scripts": {
 		"dev": "parcel index.html",
-		"build": "parcel build index.html"
+		"build": "parcel build index.html --public-url /twenty-one"
 	},
 	"dependencies": {
 		"lit": "^2.6.1",
