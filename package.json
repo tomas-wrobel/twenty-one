@@ -1,0 +1,16 @@
+{
+	"name": "twenty-one",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"dev": "parcel index.html",
+		"build": "parcel build index.html"
+	},
+	"dependencies": {
+		"lit": "^2.6.1",
+		"parley.js": "^1.0.11"
+	},
+	"devDependencies": {
+		"parcel": "^2.9.1"
+	}
+}
